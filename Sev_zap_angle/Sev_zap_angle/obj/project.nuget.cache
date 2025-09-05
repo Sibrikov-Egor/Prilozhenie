@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nRo+qTQptlE=",
+  "dgSpecHash": "mlI+9SP6dlQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\Egor1\\Desktop\\Sev_zap_angle\\Sev_zap_angle\\Sev_zap_angle.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,9 @@
     "C:\\Users\\Egor1\\.nuget\\packages\\documentformat.openxml\\3.1.1\\documentformat.openxml.3.1.1.nupkg.sha512",
     "C:\\Users\\Egor1\\.nuget\\packages\\documentformat.openxml.framework\\3.1.1\\documentformat.openxml.framework.3.1.1.nupkg.sha512",
     "C:\\Users\\Egor1\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",
+    "C:\\Users\\Egor1\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
+    "C:\\Users\\Egor1\\.nuget\\packages\\nunit.analyzers\\4.4.0\\nunit.analyzers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Egor1\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
     "C:\\Users\\Egor1\\.nuget\\packages\\rbush.signed\\4.0.0\\rbush.signed.4.0.0.nupkg.sha512",
     "C:\\Users\\Egor1\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512",
     "C:\\Users\\Egor1\\.nuget\\packages\\system.io.packaging\\8.0.1\\system.io.packaging.8.0.1.nupkg.sha512"

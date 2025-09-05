@@ -24,3 +24,11 @@ C:\Users\Egor1\Desktop\Sev_zap_angle\Sev_zap_angle\bin\Debug\net8.0\ExcelNumberF
 C:\Users\Egor1\Desktop\Sev_zap_angle\Sev_zap_angle\bin\Debug\net8.0\RBush.dll
 C:\Users\Egor1\Desktop\Sev_zap_angle\Sev_zap_angle\bin\Debug\net8.0\SixLabors.Fonts.dll
 C:\Users\Egor1\Desktop\Sev_zap_angle\Sev_zap_angle\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\Egor1\Desktop\Sev_zap_angle\Sev_zap_angle\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\Egor1\Desktop\Sev_zap_angle\Sev_zap_angle\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\Egor1\Desktop\Sev_zap_angle\Sev_zap_angle\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\Egor1\Desktop\Sev_zap_angle\Sev_zap_angle\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\Egor1\Desktop\Sev_zap_angle\Sev_zap_angle\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\Egor1\Desktop\Sev_zap_angle\Sev_zap_angle\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\Egor1\Desktop\Sev_zap_angle\Sev_zap_angle\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\Egor1\Desktop\Sev_zap_angle\Sev_zap_angle\bin\Debug\net8.0\nunit.framework.legacy.dll

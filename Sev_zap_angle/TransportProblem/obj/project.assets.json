@@ -80,6 +80,37 @@
           }
         }
       },
+      "NUnit/4.2.2": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/nunit.framework.dll": {
+            "related": ".legacy.xml;.xml"
+          },
+          "lib/net6.0/nunit.framework.legacy.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/nunit.framework.dll": {
+            "related": ".legacy.xml;.xml"
+          },
+          "lib/net6.0/nunit.framework.legacy.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/NUnit.props": {}
+        }
+      },
+      "NUnit.Analyzers/4.4.0": {
+        "type": "package"
+      },
+      "NUnit3TestAdapter/4.6.0": {
+        "type": "package",
+        "build": {
+          "build/netcoreapp3.1/NUnit3TestAdapter.props": {}
+        }
+      },
       "RBush.Signed/4.0.0": {
         "type": "package",
         "compile": {
@@ -225,6 +256,76 @@
         "lib/netstandard2.0/ExcelNumberFormat.xml"
       ]
     },
+    "NUnit/4.2.2": {
+      "sha512": "mon0OPko28yZ/foVXrhiUvq1LReaGsBdziumyyYGxV/pOE4q92fuYeN+AF+gEU5pCjzykcdBt5l7xobTaiBjsg==",
+      "type": "package",
+      "path": "nunit/4.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "NOTICES.md",
+        "README.md",
+        "THIRD_PARTY_NOTICES.md",
+        "build/NUnit.props",
+        "icon.png",
+        "lib/net462/nunit.framework.dll",
+        "lib/net462/nunit.framework.legacy.dll",
+        "lib/net462/nunit.framework.legacy.xml",
+        "lib/net462/nunit.framework.xml",
+        "lib/net6.0/nunit.framework.dll",
+        "lib/net6.0/nunit.framework.legacy.dll",
+        "lib/net6.0/nunit.framework.legacy.xml",
+        "lib/net6.0/nunit.framework.xml",
+        "nunit.4.2.2.nupkg.sha512",
+        "nunit.nuspec"
+      ]
+    },
+    "NUnit.Analyzers/4.4.0": {
+      "sha512": "VVl1CuQttXRZh52HRw5SIOut3qXw4pmuiTYk02jTELVWZ9uYRY8IVl2qF9Zs7W0ElPiLDUrAglFBzNLBCPzEcw==",
+      "type": "package",
+      "path": "nunit.analyzers/4.4.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/nunit.analyzers.dll",
+        "docs/README.md",
+        "images/nunit_256.png",
+        "license.txt",
+        "nunit.analyzers.4.4.0.nupkg.sha512",
+        "nunit.analyzers.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
+    "NUnit3TestAdapter/4.6.0": {
+      "sha512": "R7e1+a4vuV/YS+ItfL7f//rG+JBvVeVLX4mHzFEZo4W1qEKl8Zz27AqvQSAqo+BtIzUCo4aAJMYa56VXS4hudw==",
+      "type": "package",
+      "path": "nunit3testadapter/4.6.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/net462/NUnit3.TestAdapter.dll",
+        "build/net462/NUnit3.TestAdapter.pdb",
+        "build/net462/NUnit3TestAdapter.props",
+        "build/net462/nunit.engine.api.dll",
+        "build/net462/nunit.engine.core.dll",
+        "build/net462/nunit.engine.dll",
+        "build/net462/testcentric.engine.metadata.dll",
+        "build/netcoreapp3.1/NUnit3.TestAdapter.dll",
+        "build/netcoreapp3.1/NUnit3.TestAdapter.pdb",
+        "build/netcoreapp3.1/NUnit3TestAdapter.props",
+        "build/netcoreapp3.1/nunit.engine.api.dll",
+        "build/netcoreapp3.1/nunit.engine.core.dll",
+        "build/netcoreapp3.1/nunit.engine.dll",
+        "build/netcoreapp3.1/testcentric.engine.metadata.dll",
+        "docs/README.md",
+        "nunit3testadapter.4.6.0.nupkg.sha512",
+        "nunit3testadapter.nuspec",
+        "nunit_256.png"
+      ]
+    },
     "RBush.Signed/4.0.0": {
       "sha512": "aP5KQxL5RnFNGW1f0euYVBfCatkLw5iEzMRJcXKq8LWWP4Cp3+qoSq1tDDL2vvJ2rM0ychmVMa2VaEKLS6uX4w==",
       "type": "package",
@@ -293,7 +394,10 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "ClosedXML >= 0.105.0"
+      "ClosedXML >= 0.105.0",
+      "NUnit >= 4.2.2",
+      "NUnit.Analyzers >= 4.4.0",
+      "NUnit3TestAdapter >= 4.6.0"
     ]
   },
   "packageFolders": {
@@ -349,6 +453,20 @@
           "ClosedXML": {
             "target": "Package",
             "version": "[0.105.0, )"
+          },
+          "NUnit": {
+            "target": "Package",
+            "version": "[4.2.2, )"
+          },
+          "NUnit.Analyzers": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[4.4.0, )"
+          },
+          "NUnit3TestAdapter": {
+            "target": "Package",
+            "version": "[4.6.0, )"
           }
         },
         "imports": [

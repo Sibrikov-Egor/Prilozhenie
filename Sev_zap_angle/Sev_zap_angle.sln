@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36408.4 d17.14
+VisualStudioVersion = 17.14.36408.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sev_zap_angle", "Sev_zap_angle\Sev_zap_angle.csproj", "{7E1F7D36-ECB0-4BA7-B996-E27FB6C64C3E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportProblem", "TransportProblem\TransportProblem.csproj", "{8ED18F05-7249-4979-B10B-49B12E82A637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject4", "TestProject4\TestProject4.csproj", "{94D55FD2-9E04-47AB-8A36-626BE0C48E5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8ED18F05-7249-4979-B10B-49B12E82A637}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8ED18F05-7249-4979-B10B-49B12E82A637}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8ED18F05-7249-4979-B10B-49B12E82A637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94D55FD2-9E04-47AB-8A36-626BE0C48E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D55FD2-9E04-47AB-8A36-626BE0C48E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D55FD2-9E04-47AB-8A36-626BE0C48E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D55FD2-9E04-47AB-8A36-626BE0C48E5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

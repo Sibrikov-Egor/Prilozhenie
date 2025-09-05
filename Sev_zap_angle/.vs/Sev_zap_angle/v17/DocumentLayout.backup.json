@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{8ED18F05-7249-4979-B10B-49B12E82A637}|TransportProblem\\TransportProblem.csproj|solutionrelative:transportproblem\\transportproblemsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{94D55FD2-9E04-47AB-8A36-626BE0C48E5E}|TestProject4\\TestProject4.csproj|c:\\users\\egor1\\desktop\\sev_zap_angle\\testproject4\\_solver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D55FD2-9E04-47AB-8A36-626BE0C48E5E}|TestProject4\\TestProject4.csproj|solutionrelative:testproject4\\_solver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E1F7D36-ECB0-4BA7-B996-E27FB6C64C3E}|Sev_zap_angle\\Sev_zap_angle.csproj|c:\\users\\egor1\\desktop\\sev_zap_angle\\sev_zap_angle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E1F7D36-ECB0-4BA7-B996-E27FB6C64C3E}|Sev_zap_angle\\Sev_zap_angle.csproj|solutionrelative:sev_zap_angle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_solver.cs",
+              "DocumentMoniker": "C:\\Users\\Egor1\\Desktop\\Sev_zap_angle\\TestProject4\\_solver.cs",
+              "RelativeDocumentMoniker": "TestProject4\\_solver.cs",
+              "ToolTip": "C:\\Users\\Egor1\\Desktop\\Sev_zap_angle\\TestProject4\\_solver.cs",
+              "RelativeToolTip": "TestProject4\\_solver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:55:28.354Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +45,14 @@
               "RelativeDocumentMoniker": "TransportProblem\\TransportProblemSolver.cs",
               "ToolTip": "C:\\Users\\Egor1\\Desktop\\Sev_zap_angle\\TransportProblem\\TransportProblemSolver.cs",
               "RelativeToolTip": "TransportProblem\\TransportProblemSolver.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBcAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-21T11:05:30.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Egor1\\Desktop\\Sev_zap_angle\\Sev_zap_angle\\Program.cs",
               "RelativeDocumentMoniker": "Sev_zap_angle\\Program.cs",
@@ -43,7 +60,8 @@
               "RelativeToolTip": "Sev_zap_angle\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T11:05:07.088Z"
+              "WhenOpened": "2025-08-21T11:05:07.088Z",
+              "EditorCaption": ""
             }
           ]
         }

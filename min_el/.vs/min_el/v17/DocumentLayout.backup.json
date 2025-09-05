@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Egor1\\Desktop\\min_el\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{375E8CBA-F47B-41F1-8DA1-D7F38A2765E9}|min_el\\min_el.csproj|c:\\users\\egor1\\desktop\\min_el\\min_el\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375E8CBA-F47B-41F1-8DA1-D7F38A2765E9}|min_el\\min_el.csproj|solutionrelative:min_el\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD9201D4-BB65-4B37-8374-113DE861CC21}|TestProject1\\TestProject1.csproj|c:\\users\\egor1\\desktop\\min_el\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9201D4-BB65-4B37-8374-113DE861CC21}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C57D2B4-D88F-48B0-B4C2-2579D83D1E4A}|TransportProblems\\TransportProblems.csproj|c:\\users\\egor1\\desktop\\min_el\\transportproblems\\transportproblemsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C57D2B4-D88F-48B0-B4C2-2579D83D1E4A}|TransportProblems\\TransportProblems.csproj|solutionrelative:transportproblems\\transportproblemsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375E8CBA-F47B-41F1-8DA1-D7F38A2765E9}|min_el\\min_el.csproj|c:\\users\\egor1\\desktop\\min_el\\min_el\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375E8CBA-F47B-41F1-8DA1-D7F38A2765E9}|min_el\\min_el.csproj|solutionrelative:min_el\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Egor1\\Desktop\\min_el\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Egor1\\Desktop\\min_el\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwGsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:47:47.746Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -35,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Egor1\\Desktop\\min_el\\min_el\\Program.cs",
               "RelativeDocumentMoniker": "min_el\\Program.cs",
               "ToolTip": "C:\\Users\\Egor1\\Desktop\\min_el\\min_el\\Program.cs",
               "RelativeToolTip": "min_el\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA4AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-21T11:08:45.494Z",
               "EditorCaption": ""
