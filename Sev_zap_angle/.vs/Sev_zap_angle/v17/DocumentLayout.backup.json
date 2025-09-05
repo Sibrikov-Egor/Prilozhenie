@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Egor1\\Desktop\\Sev_zap_angle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED18F05-7249-4979-B10B-49B12E82A637}|TransportProblem\\TransportProblem.csproj|c:\\users\\egor1\\desktop\\sev_zap_angle\\transportproblem\\transportproblemsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED18F05-7249-4979-B10B-49B12E82A637}|TransportProblem\\TransportProblem.csproj|solutionrelative:transportproblem\\transportproblemsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1F7D36-ECB0-4BA7-B996-E27FB6C64C3E}|Sev_zap_angle\\Sev_zap_angle.csproj|c:\\users\\egor1\\desktop\\sev_zap_angle\\sev_zap_angle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1F7D36-ECB0-4BA7-B996-E27FB6C64C3E}|Sev_zap_angle\\Sev_zap_angle.csproj|solutionrelative:sev_zap_angle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransportProblemSolver.cs",
+              "DocumentMoniker": "C:\\Users\\Egor1\\Desktop\\Sev_zap_angle\\TransportProblem\\TransportProblemSolver.cs",
+              "RelativeDocumentMoniker": "TransportProblem\\TransportProblemSolver.cs",
+              "ToolTip": "C:\\Users\\Egor1\\Desktop\\Sev_zap_angle\\TransportProblem\\TransportProblemSolver.cs",
+              "RelativeToolTip": "TransportProblem\\TransportProblemSolver.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:05:30.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Egor1\\Desktop\\Sev_zap_angle\\Sev_zap_angle\\Program.cs",
+              "RelativeDocumentMoniker": "Sev_zap_angle\\Program.cs",
+              "ToolTip": "C:\\Users\\Egor1\\Desktop\\Sev_zap_angle\\Sev_zap_angle\\Program.cs",
+              "RelativeToolTip": "Sev_zap_angle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:05:07.088Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

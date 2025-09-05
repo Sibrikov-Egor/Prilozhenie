@@ -1,0 +1,12 @@
+C:\Users\Egor1\Desktop\Sev_zap_angle\TransportProblem\bin\Debug\net8.0\TransportProblem.deps.json
+C:\Users\Egor1\Desktop\Sev_zap_angle\TransportProblem\bin\Debug\net8.0\TransportProblem.dll
+C:\Users\Egor1\Desktop\Sev_zap_angle\TransportProblem\bin\Debug\net8.0\TransportProblem.pdb
+C:\Users\Egor1\Desktop\Sev_zap_angle\TransportProblem\obj\Debug\net8.0\TransportProblem.csproj.AssemblyReference.cache
+C:\Users\Egor1\Desktop\Sev_zap_angle\TransportProblem\obj\Debug\net8.0\TransportProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egor1\Desktop\Sev_zap_angle\TransportProblem\obj\Debug\net8.0\TransportProblem.AssemblyInfoInputs.cache
+C:\Users\Egor1\Desktop\Sev_zap_angle\TransportProblem\obj\Debug\net8.0\TransportProblem.AssemblyInfo.cs
+C:\Users\Egor1\Desktop\Sev_zap_angle\TransportProblem\obj\Debug\net8.0\TransportProblem.csproj.CoreCompileInputs.cache
+C:\Users\Egor1\Desktop\Sev_zap_angle\TransportProblem\obj\Debug\net8.0\TransportProblem.dll
+C:\Users\Egor1\Desktop\Sev_zap_angle\TransportProblem\obj\Debug\net8.0\refint\TransportProblem.dll
+C:\Users\Egor1\Desktop\Sev_zap_angle\TransportProblem\obj\Debug\net8.0\TransportProblem.pdb
+C:\Users\Egor1\Desktop\Sev_zap_angle\TransportProblem\obj\Debug\net8.0\ref\TransportProblem.dll

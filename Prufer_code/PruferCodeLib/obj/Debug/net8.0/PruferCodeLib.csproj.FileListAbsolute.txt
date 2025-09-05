@@ -1,0 +1,12 @@
+C:\Users\Egor1\Desktop\Prufer_code\PruferCodeLib\bin\Debug\net8.0\PruferCodeLib.deps.json
+C:\Users\Egor1\Desktop\Prufer_code\PruferCodeLib\bin\Debug\net8.0\PruferCodeLib.dll
+C:\Users\Egor1\Desktop\Prufer_code\PruferCodeLib\bin\Debug\net8.0\PruferCodeLib.pdb
+C:\Users\Egor1\Desktop\Prufer_code\PruferCodeLib\obj\Debug\net8.0\PruferCodeLib.csproj.AssemblyReference.cache
+C:\Users\Egor1\Desktop\Prufer_code\PruferCodeLib\obj\Debug\net8.0\PruferCodeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egor1\Desktop\Prufer_code\PruferCodeLib\obj\Debug\net8.0\PruferCodeLib.AssemblyInfoInputs.cache
+C:\Users\Egor1\Desktop\Prufer_code\PruferCodeLib\obj\Debug\net8.0\PruferCodeLib.AssemblyInfo.cs
+C:\Users\Egor1\Desktop\Prufer_code\PruferCodeLib\obj\Debug\net8.0\PruferCodeLib.csproj.CoreCompileInputs.cache
+C:\Users\Egor1\Desktop\Prufer_code\PruferCodeLib\obj\Debug\net8.0\PruferCodeLib.dll
+C:\Users\Egor1\Desktop\Prufer_code\PruferCodeLib\obj\Debug\net8.0\refint\PruferCodeLib.dll
+C:\Users\Egor1\Desktop\Prufer_code\PruferCodeLib\obj\Debug\net8.0\PruferCodeLib.pdb
+C:\Users\Egor1\Desktop\Prufer_code\PruferCodeLib\obj\Debug\net8.0\ref\PruferCodeLib.dll

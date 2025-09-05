@@ -1,0 +1,12 @@
+C:\Users\Egor1\Desktop\min_el\TransportProblems\bin\Debug\net8.0\TransportProblems.deps.json
+C:\Users\Egor1\Desktop\min_el\TransportProblems\bin\Debug\net8.0\TransportProblems.dll
+C:\Users\Egor1\Desktop\min_el\TransportProblems\bin\Debug\net8.0\TransportProblems.pdb
+C:\Users\Egor1\Desktop\min_el\TransportProblems\obj\Debug\net8.0\TransportProblems.csproj.AssemblyReference.cache
+C:\Users\Egor1\Desktop\min_el\TransportProblems\obj\Debug\net8.0\TransportProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egor1\Desktop\min_el\TransportProblems\obj\Debug\net8.0\TransportProblems.AssemblyInfoInputs.cache
+C:\Users\Egor1\Desktop\min_el\TransportProblems\obj\Debug\net8.0\TransportProblems.AssemblyInfo.cs
+C:\Users\Egor1\Desktop\min_el\TransportProblems\obj\Debug\net8.0\TransportProblems.csproj.CoreCompileInputs.cache
+C:\Users\Egor1\Desktop\min_el\TransportProblems\obj\Debug\net8.0\TransportProblems.dll
+C:\Users\Egor1\Desktop\min_el\TransportProblems\obj\Debug\net8.0\refint\TransportProblems.dll
+C:\Users\Egor1\Desktop\min_el\TransportProblems\obj\Debug\net8.0\TransportProblems.pdb
+C:\Users\Egor1\Desktop\min_el\TransportProblems\obj\Debug\net8.0\ref\TransportProblems.dll

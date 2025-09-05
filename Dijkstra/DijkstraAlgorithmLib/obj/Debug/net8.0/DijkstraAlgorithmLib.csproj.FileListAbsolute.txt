@@ -1,0 +1,12 @@
+C:\Users\Egor1\Desktop\Dijkstra\DijkstraAlgorithmLib\bin\Debug\net8.0\DijkstraAlgorithmLib.deps.json
+C:\Users\Egor1\Desktop\Dijkstra\DijkstraAlgorithmLib\bin\Debug\net8.0\DijkstraAlgorithmLib.dll
+C:\Users\Egor1\Desktop\Dijkstra\DijkstraAlgorithmLib\bin\Debug\net8.0\DijkstraAlgorithmLib.pdb
+C:\Users\Egor1\Desktop\Dijkstra\DijkstraAlgorithmLib\obj\Debug\net8.0\DijkstraAlgorithmLib.csproj.AssemblyReference.cache
+C:\Users\Egor1\Desktop\Dijkstra\DijkstraAlgorithmLib\obj\Debug\net8.0\DijkstraAlgorithmLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egor1\Desktop\Dijkstra\DijkstraAlgorithmLib\obj\Debug\net8.0\DijkstraAlgorithmLib.AssemblyInfoInputs.cache
+C:\Users\Egor1\Desktop\Dijkstra\DijkstraAlgorithmLib\obj\Debug\net8.0\DijkstraAlgorithmLib.AssemblyInfo.cs
+C:\Users\Egor1\Desktop\Dijkstra\DijkstraAlgorithmLib\obj\Debug\net8.0\DijkstraAlgorithmLib.csproj.CoreCompileInputs.cache
+C:\Users\Egor1\Desktop\Dijkstra\DijkstraAlgorithmLib\obj\Debug\net8.0\DijkstraAlgorithmLib.dll
+C:\Users\Egor1\Desktop\Dijkstra\DijkstraAlgorithmLib\obj\Debug\net8.0\refint\DijkstraAlgorithmLib.dll
+C:\Users\Egor1\Desktop\Dijkstra\DijkstraAlgorithmLib\obj\Debug\net8.0\DijkstraAlgorithmLib.pdb
+C:\Users\Egor1\Desktop\Dijkstra\DijkstraAlgorithmLib\obj\Debug\net8.0\ref\DijkstraAlgorithmLib.dll
